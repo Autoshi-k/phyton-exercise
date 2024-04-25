@@ -1,0 +1,20 @@
+:hello:
+:is it:
+me::youre looking for
+::is it::
+my::ni
+what::is this
+[arr]
+hi::me
+first::second
+::::
+hi::me
+::::
+[inArr]
+shit::whoa
+:woo:
+inner::yes
+::woo::
+[[inArr]]
+[[arr]]
+::hello::
